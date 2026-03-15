@@ -1,0 +1,13 @@
+Aqui está os datasets utilizados para o treinamento do modelo:
+
+https://universe.roboflow.com/universii-tunku-abdul-rahman/plant-disease-detection-xmg4r ✓
+https://universe.roboflow.com/fast-pfjdd/whea-diseas-detection ✓
+https://universe.roboflow.com/abdullah-ez3nk/tomato-leaf-diseases-detection-4kjiy ✓
+https://universe.roboflow.com/work-yqxj3/plant-disease-8q2cp ✓
+https://universe.roboflow.com/muhammad-kabeer-khan/plant-disease-pixzw
+https://universe.roboflow.com/crackunsup/plant-disease-identifier
+https://universe.roboflow.com/plant-disease-classification-9vcyb/plant-disease-classification-pytpe
+https://universe.roboflow.com/plant-disease-classification-challenge/plant-disease-classification-cqbkt
+https://universe.roboflow.com/ayyat-s-workspace/plant-disease-7sop6
+
+Os marcados com ✓ foram utilizados no treinamento do modelo. Os que não estão marcados não foram utilizados, mas podendo ser utilizados no futuro para um melhor resultado.
